@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod school:staff*
+chmod school:staff *
