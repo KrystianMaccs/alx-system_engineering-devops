@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod Vincent:staff *
+chgrp school hello
